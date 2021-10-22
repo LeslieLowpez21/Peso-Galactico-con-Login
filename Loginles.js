@@ -7,7 +7,7 @@ function validar() {
 	//validar los datos
 	if (u=="Leslie"&&c=="110120") {
 		alert("Usuario y Password Correctos");
-		window.open("PesoGalactico.html");
+		window.open("index.html");
 		document.getElementById("usuario").value="";
 		document.getElementById("pass").value="";
 	}
